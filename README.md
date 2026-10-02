@@ -17,22 +17,24 @@ Index of every repository. Recent work is first. The last table is private, so t
 
 | Repository | What it is |
 | --- | --- |
+| [dynamodb](https://github.com/yogesh-insta/dynamodb) | Node.js examples of DynamoDB DocumentClient create, read, update, and delete. Credentials stay in the environment. |
+| [testcypress](https://github.com/yogesh-insta/testcypress) | Small Cypress suite that checks a local page, including an XHR call, and records a video. |
 | [react_amplify](https://github.com/yogesh-insta/react_amplify) | React demo that uses AWS Amplify to generate a backend and call it from the app. |
 | [my-react-app](https://github.com/yogesh-insta/my-react-app) | React app served by NGINX, built with Docker Compose, and deployed with Travis CI and AWS Elastic Beanstalk. |
-| [my-graphql-project](https://github.com/yogesh-insta/my-graphql-project) | Node.js API with GraphQL, Express, and Elasticsearch, plus a React client. Sample data comes from a JSON server. |
-| [javascript-util](https://github.com/yogesh-insta/javascript-util) | Node.js service packaged with Docker and wired to Redis through Docker Compose. |
+| [my-graphql-project](https://github.com/yogesh-insta/my-graphql-project) | Node.js API with GraphQL, Express, and Elasticsearch, plus a React client. |
+| [javascript-util](https://github.com/yogesh-insta/javascript-util) | Node.js service packaged with Docker and connected to Redis through Docker Compose. |
 | [nodejs-bdd](https://github.com/yogesh-insta/nodejs-bdd) | BDD examples for a REST API, using Node.js, Cucumber.js, and a JSON server as the mock API. |
 | [mask-it](https://github.com/yogesh-insta/mask-it) | Library that masks selected values in JSON objects and arrays before the data is sent on. |
 | [kafka-producer-consumer-batch-processing](https://github.com/yogesh-insta/kafka-producer-consumer-batch-processing) | Node.js service that consumes a Kafka batch, processes the messages asynchronously, and produces them to another topic. |
 | [nodejs-postgres](https://github.com/yogesh-insta/nodejs-postgres) | Node.js job that reads orders from a CSV and imports each one into Postgres only when that customer already exists. |
-| [nodejs-knex-mysql](https://github.com/yogesh-insta/nodejs-knex-mysql) | Node.js CRUD and transactions with Knex and MySQL, tested with Jest. |
+| [nodejs-knex-mysql](https://github.com/yogesh-insta/nodejs-knex-mysql) | Node.js CRUD and transactions with Knex, MySQL, and Jest. |
 | [codingTestJs](https://github.com/yogesh-insta/codingTestJs) | JavaScript practice for arithmetic series, sorting, searching, arrays, and HackerRank problems. |
 | [MEAN1](https://github.com/yogesh-insta/MEAN1) | Express and Mongoose API for books, stored in a local MongoDB database. There is no Angular client in the repo. |
 | [magic-ball](https://github.com/yogesh-insta/magic-ball) | Magic 8 Ball with a Node.js server and a React client. |
 | [ember_poc](https://github.com/yogesh-insta/ember_poc) | Ember CLI proof of concept. The app is the default Ember starter named Ipp. |
 | [AngTest](https://github.com/yogesh-insta/AngTest) | Small AngularJS experiments for controllers, scope, and messaging between controllers. |
 | [SimpleSwagger](https://github.com/yogesh-insta/SimpleSwagger) | Small utility for REST documentation in the style of Swagger. The write-up is a PowerPoint and a `.wrf` file. |
-| [exp1](https://github.com/yogesh-insta/exp1) | Express and MongoDB API for the parking-on-rent app, including parking spots and reservations. |
+| [exp1](https://github.com/yogesh-insta/exp1) | Express and MongoDB API for the parking-on-rent app. The database address comes from the environment. |
 | [rt5](https://github.com/yogesh-insta/rt5) | Angular client for the parking-on-rent app. It talks to the API with JSON. |
 | [Codathon](https://github.com/yogesh-insta/Codathon) | IoT smart-parking demo. The repo has the client, the server, and the device-side code. |
 | [TechPreppers](https://github.com/yogesh-insta/TechPreppers) | Browser demo for an emergency data response. People and the rescue team share alerts, messages, and a map of supplies. |
@@ -41,6 +43,8 @@ Index of every repository. Recent work is first. The last table is private, so t
 
 | Repository | What it is |
 | --- | --- |
+| [spring-retry](https://github.com/yogesh-insta/spring-retry) | Spring Boot tests that retry a failed call with `@Retryable` and with a `RetryTemplate`. |
+| [java-util](https://github.com/yogesh-insta/java-util) | Spring Boot service built with Gradle, packaged in Docker, and connected to Redis on Minikube. |
 | [fraud-detection](https://github.com/yogesh-insta/fraud-detection) | Spring Boot service that flags card numbers whose transactions on a given date exceed a threshold. |
 | [address-book](https://github.com/yogesh-insta/address-book) | Spring Boot address book. It stores names and phone numbers and can list a unique set of contacts. |
 | [spring-boot-cap](https://github.com/yogesh-insta/spring-boot-cap) | Spring Boot sample with REST, MongoDB, security, and actuator monitoring. |
@@ -66,9 +70,7 @@ Index of every repository. Recent work is first. The last table is private, so t
 
 | Repository | What it is |
 | --- | --- |
-| [java-util](https://github.com/yogesh-insta/java-util) | Spring Boot service built with Gradle, packaged in Docker, and wired to Redis on Kubernetes. |
 | [sprintboot-mongodb-ssl](https://github.com/yogesh-insta/sprintboot-mongodb-ssl) | Spring Boot student API with MongoDB over SSL, Swagger, Lombok, and a Docker build. |
-| [spring-retry](https://github.com/yogesh-insta/spring-retry) | Spring retry shown two ways: the `@Retryable` annotation and a `RetryTemplate`. |
 | [addressbook1](https://github.com/yogesh-insta/addressbook1) | Spring Boot address book for names and phone numbers, including a unique contact list. |
 | [ts-app](https://github.com/yogesh-insta/ts-app) | API-first TypeScript starter with Node.js and React. A typed client is generated from the API. |
 | [apollo-server-exp1](https://github.com/yogesh-insta/apollo-server-exp1) | GraphQL experiment on Apollo Server, with ESLint, Flow, and a pinned Node version. |
@@ -76,10 +78,8 @@ Index of every repository. Recent work is first. The last table is private, so t
 | [kafka-producer](https://github.com/yogesh-insta/kafka-producer) | Node.js Kafka producer and consumer, with notes for a single-machine multi-broker setup. |
 | [demo-kafka-consumer](https://github.com/yogesh-insta/demo-kafka-consumer) | Sample KafkaJS consumer. Connecting requires the broker SSL certificate and key. |
 | [demo-kafka-producer](https://github.com/yogesh-insta/demo-kafka-producer) | Sample KafkaJS producer. Connecting requires the broker SSL configuration. |
-| [dynamodb](https://github.com/yogesh-insta/dynamodb) | Node.js examples of DynamoDB DocumentClient create, read, update, and delete calls. |
 | [nodejs-best-practices](https://github.com/yogesh-insta/nodejs-best-practices) | Node.js candidate exercise covering Mocha, Chai, and ESLint. |
 | [axios-example](https://github.com/yogesh-insta/axios-example) | Node.js script that uses Axios to POST a sequence of workflow test results. |
-| [testcypress](https://github.com/yogesh-insta/testcypress) | Small Cypress example that runs browser tests against a local page. |
 | [magic-8-ball](https://github.com/yogesh-insta/magic-8-ball) | Magic 8 Ball with a Node.js server and a React client. |
 | [saaco3](https://github.com/yogesh-insta/saaco3) | Personal copies of three AWS Solutions Architect Associate (SAA-C03) cheat-sheet articles. |
 | [test2](https://github.com/yogesh-insta/test2) | Empty placeholder repository. |
