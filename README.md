@@ -30,7 +30,6 @@ Index of public repositories. Start with the recent work, then open a group belo
 - [ember_poc](https://github.com/yogesh-insta/ember_poc) — Ember CLI proof of concept named Ipp.
 - [AngTest](https://github.com/yogesh-insta/AngTest) — Small AngularJS experiments for controllers, scope, and messaging.
 - [SimpleSwagger](https://github.com/yogesh-insta/SimpleSwagger) — Small utility for REST documentation in the style of Swagger.
-- [portal](https://github.com/yogesh-insta/portal) — Java web samples: a file-upload endpoint and a few service-desk panels.
 - [exp1](https://github.com/yogesh-insta/exp1) — Express and MongoDB API for the parking-on-rent app.
 - [rt5](https://github.com/yogesh-insta/rt5) — Angular client for the parking-on-rent app.
 - [Codathon](https://github.com/yogesh-insta/Codathon) — IoT smart-parking demo, with client and server.
@@ -41,6 +40,7 @@ Index of public repositories. Start with the recent work, then open a group belo
 <details>
 <summary>Java and Spring</summary>
 
+- [portal](https://github.com/yogesh-insta/portal) — Java web samples: a file-upload endpoint and a few service-desk panels.
 - [fraud-detection](https://github.com/yogesh-insta/fraud-detection) — Spring Boot service that flags card numbers whose transactions on a date exceed a threshold.
 - [address-book](https://github.com/yogesh-insta/address-book) — Spring Boot address book for names and phone numbers.
 - [spring-boot-cap](https://github.com/yogesh-insta/spring-boot-cap) — Spring Boot sample with REST, MongoDB, security, and actuator monitoring.
