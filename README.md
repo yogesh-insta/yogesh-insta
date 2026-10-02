@@ -26,6 +26,7 @@ Index of every repository. Recent work is first. The last table is private, so t
 | [kafka-producer-consumer-batch-processing](https://github.com/yogesh-insta/kafka-producer-consumer-batch-processing) | Node.js service that consumes a Kafka batch, processes the messages asynchronously, and produces them to another topic. |
 | [nodejs-postgres](https://github.com/yogesh-insta/nodejs-postgres) | Node.js job that reads orders from a CSV and imports each one into Postgres only when that customer already exists. |
 | [nodejs-knex-mysql](https://github.com/yogesh-insta/nodejs-knex-mysql) | Node.js CRUD and transactions with Knex and MySQL, tested with Jest. |
+| [codingTestJs](https://github.com/yogesh-insta/codingTestJs) | JavaScript practice for arithmetic series, sorting, searching, arrays, and HackerRank problems. |
 | [MEAN1](https://github.com/yogesh-insta/MEAN1) | Express and Mongoose API for books, stored in a local MongoDB database. There is no Angular client in the repo. |
 | [magic-ball](https://github.com/yogesh-insta/magic-ball) | Magic 8 Ball with a Node.js server and a React client. |
 | [ember_poc](https://github.com/yogesh-insta/ember_poc) | Ember CLI proof of concept. The app is the default Ember starter named Ipp. |
