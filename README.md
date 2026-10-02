@@ -1,6 +1,8 @@
 # Yogesh Manware
 
-Index of every repository. Recent work is first. The last table is private, so those links only open when you are signed in as the owner.
+I build agents, APIs, and cloud services. Recent work is in Python on Google Cloud, with Go services beside it and Java and Spring Boot further back.
+
+Start with the six repositories below. Later tables are older public work, forks, and private repositories. Private links open only when you are signed in as the owner.
 
 ## Recent work
 
